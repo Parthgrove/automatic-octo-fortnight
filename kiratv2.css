@@ -1,0 +1,34 @@
+#topic{
+    color: rgb(255, 217, 0);
+    text-align: center;
+    font-size: 56px;
+    border: whitesmoke;
+    border-style: double;
+}
+body{
+   background-color:lavender;
+    color:black;
+    font-family: cursive;
+}
+.product-head{ 
+    text-align: center;
+    color:rgb(5, 199, 199);
+}
+.top{
+    background-color: black;
+}
+#contact-info{
+    background-color: black;
+}
+.number{
+    text-align: center;
+}
+.productone{
+    font-family: 'Times New Roman', Times, serif;
+}
+.productpic{
+    white-space: nowrap;
+}
+a:hover {
+    color:darkorange;
+}
